@@ -14,6 +14,6 @@ This website was created to show the main resources that Horsieon supply and wha
 
 The buttons on the top right will direct you to the corresponding content on the page of the website.
 
-##Application
+## Application
 
 https://shamanking176.github.io/Horiseon-Website/
