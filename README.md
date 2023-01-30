@@ -3,12 +3,7 @@
 
 ## Description
 
-This website was created to show the main resources that Horsieon supply and what the focus of the company is. This includes:
-
--Search Engnie Optimization
--Online Reputation Management
--Social Media Marketing
-
+This website was created to show the main resources that Horsieon supply and what the focus of the company is. This includes, Search Engnie Optimization, Online Reputation Management, and Social Media Marketing.
 
 ## Features
 
